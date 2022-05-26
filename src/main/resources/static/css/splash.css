@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+header div{
+	margin: 10px 1%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.table{
+	margin: 0px 1%;
+}
+
+.flexbox {
+	display:flex;
+	justify-content: flex-end;
+	align-items: center;
+	padding-right: 25px;
+}
+
+.options {
+	margin-left: 5px;
+}
+

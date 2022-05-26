@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+body {
+	margin: 2% 4%;
+}
+
+header div{
+	margin: 5px 1%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
